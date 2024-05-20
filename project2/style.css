@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+#change-btn{
+    border: 2px soild #fff;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 10px;
+    cursor: pointer;
+
+
+}
